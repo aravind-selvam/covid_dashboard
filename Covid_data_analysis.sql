@@ -120,4 +120,4 @@ from covid_deaths as d
 join covid_vaccine as v on d.location = v.location and d.date_1 = v.date_1 
 where d.continent is not null
 
-----My First SQL exploration with Big_dataset----D
+----- SQL exploration with Big_dataset----:D
